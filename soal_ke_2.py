@@ -20,7 +20,7 @@ def hitungPecahan(n):
     n %= 1000
 
     f = n // 50
-    n %= % 50
+    n %= 50
 
     print('sisa = ', n)
 
