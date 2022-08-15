@@ -1,3 +1,8 @@
+'''
+disediakan deretan angka; misal: 368546748.
+setiap 2 angka genap berurutan, maka dipisah dengan '-' 
+'''
+
 def main():
     n = list('368546748')
     output = ''
